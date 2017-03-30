@@ -1,0 +1,7 @@
+{
+  "name": "Hello world",
+  "description": "Simple hello world app",
+  "image": "heroku/python",
+  "repository": "https://github.com/bat-dog/jb9sfd78t9y23f/",
+  "keywords": ["python", "flask" ]
+}
